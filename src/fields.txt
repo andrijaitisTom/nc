@@ -1,0 +1,16 @@
+Array of unique fields
+
+['Title', 'Date', 'Description', 'Comments', 'Outsourcing', 'IT', 'Valid Since', 'Valid Until', 'Form', 
+'First Party', 'Second Party', 'Physical location', 'Materiality', 'Last risk assessment date', 'Relation', 
+'Name (LT)', 'Name', 'Registration Number (Contract)', 'In force until (date)', 'Counterparties', 'Corporate Owner',
+ 'Personal owner', 'Document Type', 'Date (date of the document)', 'Validity', 'Document Status', 'Participants',
+  'Decision Type', 'Registration Number (CDR-MBD)', 'Registration Number (CDR-O)', 'Order Type', 'Registration Number (CDR-SBD)',
+   'Outsourcing function audit date', 'Parties related to the Company who also use this service', 'Nature of Function',
+    'Last Risk Assessment Result', 'Basis for Materiality', 'Location of Data', 'Location of Services', 'Transfer of Data',
+     'Bank of Lithuania Approval Date', 'Bank of Lithuania Notification Date', 'Is the Service Provider Related to UAB Pervesk', 
+     'Agreement Approved By', 'Governing Law of the Agreement', 'Subcontractors', 'Service Provider Address', 
+     'Service Provider Legal Entity Code', 'Service Provider Name', 'Service Provider Parent Company', 'Service Provider Substitutability Assessment Result',
+      'Alternative Service Providers', 'Does this (critical or material) function support business operations that are time-critical', 
+      'Price of Agreement', 'Events when outsourced function was not provided at agreed and/or commonly accepted level', 'Type (PI)',
+       'Approval Date', 'Responsible Unit', 'Owner', 'Area', 'Date (receipt date)', 'Sender', 'Recipient', 'Recipient Employee', 'Document Form',
+        'Delivery Method', 'Registration Number (TD)', 'Document Organizer', 'Direction']
